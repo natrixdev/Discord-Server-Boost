@@ -6,8 +6,8 @@
 Boost your Discord server with nitro bot accounts. 
 
 
-# We give you free tokens in [this file](https://github.com/natrixdev/Discord-Server-Boost-Botter/blob/main/config/accounts/accounts.txt)
+# We give you free tokens in [this file](https://github.com/natrixdev/Discord-Server-Boost/blob/main/config/accounts/accounts.txt)
 
 ### Config: 
-complete https://github.com/natrixdev/Discord-Server-Boost-Botter/blob/main/config/server.json 
+complete https://github.com/natrixdev/Discord-Server-Boost/blob/main/config/server.json 
 and install  `request`,  `threading`,  `time` and  `discord` packages using the  `pip install` command.
